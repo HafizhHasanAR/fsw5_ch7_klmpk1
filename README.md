@@ -1,10 +1,3 @@
-# Challange Chapter 7 - Tim 2
-
-1. Muhammad Raffi
-2. Amara Nur Ali
-3. Andien Khansa'a
-4. Rizal Fahrur Rozi
-5. Josie Gf Purba
 
 ## ERD
 
